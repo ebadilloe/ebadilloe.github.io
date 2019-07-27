@@ -1,0 +1,50 @@
+---
+output:
+  html_document: 
+    toc: true
+    toc_float: true
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<style>
+body {
+text-align: justify}
+
+body{ /* Normal  */
+      font-size: 11pt;
+  }
+</style>
+
+
+## **Publications**
+
+
+### **In English**
+
+Tojeiro-Rivero, D., Moreno, R. **Badillo, E.** (2019) "[Radical innovations: the role of knowledge acquisition from abroad](https://link.springer.com/article/10.1007/s11151-018-9659-3)", *Review of Industrial Organization*, forthcoming
+
+García G. & **Badillo, R.** (2018). "[Rationing of formal sector jobs and informality: the colombian case](https://onlinelibrary.wiley.com/doi/abs/10.1002/jid.3310)," *Journal of International Development*, 30(5):760-789
+
+**Badillo, R.** & Moreno, R. (2018). "[Does absorptive capacity determine collaboration returns to innovation? A geographical dimension](https://link.springer.com/article/10.1007/s00168-015-0696-7)," *The Annals of Regional Science*, 60(3): 473-499
+
+**Badillo, R.** & Moreno, R. (2016). "[Are collaborative agreements in innovation activities persistent at the firm level? empirical evidence for the spanish case](https://link.springer.com/article/10.1007/s11151-015-9493-9)," *Review of Industrial Organization*, 49(1): 71-101
+
+**Badillo, R.** & Moreno, R. (2016). "[What drives the choice of the type of partner in R&D cooperation? Evidence for Spanish manufactures and services](https://www.tandfonline.com/doi/abs/10.1080/00036846.2016.1170932)," *Applied Economics*, 48(52): 5023-5044
+
+Ortiz, C., Castro. J. & **Badillo, E.** (2009). "[Industrialization and growth: threshold effects of technological integration](https://revistas.unal.edu.co/index.php/ceconomia/article/view/12069/32141)," *Revista Cuadernos de Economía*,  28(51): 75-98
+
+
+### **In Spanish**
+
+Castro, E., García, G. & **Badillo, E.** (2011). "[La participación laboral de la mujer casada y su cónyuge en Colombia: Un enfoque de decisiones relacionadas](http://aprendeenlinea.udea.edu.co/revistas/index.php/lecturasdeeconomia/article/view/9999/9225)," *Lecturas de Economía*, 74: 171-201
+
+Ortiz, C., Uribe, J. & **Badillo, E.** (2009). "[Segmentación inter e intrarregional en el mercado laboral urbano de Colombia, 2001-2006](http://repositorio.banrep.gov.co/bitstream/handle/20.500.12134/6388/?sequence=1)," *Ensayos Sobre Política Económica*, 27(58): 194-231
+
+### **Working papers**
+
+**Badillo, E.**, Cardona-Sosa, L., Medina, C., Morales, L. & Posso, C. (2019). "[Twin instrument, fertility and women’s labor force participation: evidence from Colombian low-income families](http://repositorio.banrep.gov.co/bitstream/handle/20.500.12134/9675/be_1071.pdf?sequence=8&isAllowed=y)," *Borradores de Economia* 1071, Banco de la Republica de Colombia
+
+Tojeiro-Rivero, D., Moreno, R. & **Badillo, E.** (2016). "“[Breakthrough innovations: The impact of foreign acquisition of knowledge](http://www.ub.edu/irea/working_papers/2016/201614.pdf)"," *IREA Working Papers* 201614, University of Barcelona, Research Institute of Applied Economics
+
+**Badillo, E.** & Moreno, R. (2016). "[Technological cooperation in Spanish firms](http://www.ub.edu/irea/working_papers/2016/201601.pdf)”, *AQR Working Papers* 201601, University of Barcelona, Regional Quantitative Analysis Group
