@@ -1,0 +1,33 @@
+name: "Erika Badillo"
+output_dir: "."
+navbar: 
+  title: "Erika Badillo"
+  left:
+    - text: "Research"
+      href: research.html
+    - text: "Teaching"
+      href: teaching.html
+    - text: "Afiliation"
+      href: afiliation.html
+
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: ai-ideas-repec-square ai-lg
+      href: https://ideas.repec.org/f/pba1439.html
+    - icon: ai-google-scholar-square ai-lg
+      href: https://scholar.google.es/citations?user=E21twFgAAAAJ&hl=es
+    - icon: ai-orcid ai-lg
+      href: https://orcid.org/0000-0002-8650-305X
+    - icon: ai-researchgate-square ai-lg
+      href: https://www.researchgate.net/profile/Erika_Raquel_Badillo_Enciso
+    - icon: fa-graduation-cap fa-lg
+      href: https://www.scopus.com/authid/detail.uri?authorId=36005371700
+    - icon: ai-cv-square ai-lg
+      href: http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001317148
+output:
+  html_document:
+    theme: paper
+    css: 
+    - 'styles.css'
+    - 'https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css'
