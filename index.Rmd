@@ -2,7 +2,7 @@
 ---
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="images/foto.JPG" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+<img src="images/Fotojulio2019.jpeg" style="width:35%; border:10px solid; margin-right: 20px" align="left">
 
 <style>
 body {
@@ -13,7 +13,7 @@ body{ /* Normal  */
   }
 </style>
 
-I am a Professor of Economics at [Universidad Autónoma Latinoamericana](https://www.unaula.edu.co/profesores_econo) (Medellín-Colombia). My research interests lie in the fields of innovations economics, labor, gender and applied microeconometrics 
+I am a Professor of Economics at [Universidad Autónoma Latinoamericana](https://www.unaula.edu.co) (Medellín-Colombia). My research interests lie in the fields of innovations economics, labor, gender and applied microeconometrics 
 
 **2015 PhD in Economics**, Universitat de Barcelona, Spain<br>
 Dissertation: [R&D Cooperation: Determinants, persistence and its effects on firms' innovative performance](https://www.tesisenred.net/handle/10803/287325)<br>

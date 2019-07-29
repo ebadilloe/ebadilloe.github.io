@@ -3,13 +3,13 @@ body {
 text-align: justify}
 
 body{ /* Normal  */
-      font-size: 11pt;
+      font-size: 12pt;
   }
 </style>
 
 **Erika Raquel Badillo Enciso**<br>
 Department of Economics<br>
-Universidad Autónoma Latinoamericana<br>
+Universidad Autónoma Latinoamericana (UNAULA)<br>
 Phone: +57 (4) 511 21 99 Ext. 121<br>
 Office: 418, Bloque 1<br>
 Carrera 55 Nº 49 - 51<br>

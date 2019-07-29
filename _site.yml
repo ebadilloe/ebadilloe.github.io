@@ -1,14 +1,14 @@
-name: "Erika Badillo"
+name: "Erika Raquel Badillo Enciso"
 output_dir: "."
 navbar: 
-  title: "Erika Badillo"
+  title: "Erika Raquel Badillo Enciso"
   left:
     - text: "Research"
       href: research.html
     - text: "Teaching"
       href: teaching.html
-    - text: "Afiliation"
-      href: afiliation.html
+    - text: "Affiliations"
+      href: affiliations.html
 
   right:
     - icon: fa-envelope fa-lg
