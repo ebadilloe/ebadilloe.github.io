@@ -27,7 +27,7 @@ navbar:
       href: http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001317148
 output:
   html_document:
-    theme: paper
+    theme: flatly
     css: 
     - 'styles.css'
     - 'https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css'
