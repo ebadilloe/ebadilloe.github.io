@@ -17,6 +17,7 @@ navbar:
       href: https://ideas.repec.org/f/pba1439.html
     - icon: ai-google-scholar-square ai-lg
       href: https://scholar.google.es/citations?user=E21twFgAAAAJ&hl=es
+      title: Google Scholar
     - icon: ai-orcid ai-lg
       href: https://orcid.org/0000-0002-8650-305X
     - icon: ai-researchgate-square ai-lg
