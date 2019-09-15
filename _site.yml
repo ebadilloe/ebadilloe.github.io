@@ -9,7 +9,7 @@ navbar:
       href: teaching.html
     - text: "Affiliations"
       href: affiliations.html
-
+      
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
@@ -17,8 +17,6 @@ navbar:
       href: https://ideas.repec.org/f/pba1439.html
     - icon: ai-google-scholar-square ai-lg
       href: https://scholar.google.es/citations?user=E21twFgAAAAJ&hl=es
-      target: _blank
-      title: Google Scholar
     - icon: ai-orcid ai-lg
       href: https://orcid.org/0000-0002-8650-305X
     - icon: ai-researchgate-square ai-lg
@@ -32,6 +30,9 @@ navbar:
 output:
   html_document:
     theme: flatly
+    highlight: textmate
+    include:
+    after_body: _footer.html
     css: 
     - 'styles.css'
     - 'https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css'

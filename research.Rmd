@@ -4,7 +4,6 @@ output:
     toc: true
     toc_float: true
 ---
-
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 <style>
@@ -22,7 +21,7 @@ body{ /* Normal  */
 
 ### **In English**
 
-Tojeiro-Rivero, D., Moreno, R. **Badillo, E.** (2019) "[Radical innovations: the role of knowledge acquisition from abroad](https://link.springer.com/article/10.1007/s11151-018-9659-3)", *Review of Industrial Organization*, forthcoming
+Tojeiro-Rivero, D., Moreno, R. & **Badillo, E.** (2019) "[Radical innovations: the role of knowledge acquisition from abroad](https://link.springer.com/article/10.1007/s11151-018-9659-3)", *Review of Industrial Organization*, 55(2): 173-207.
 
 García G. & **Badillo, E.** (2018). "[Rationing of formal sector jobs and informality: the colombian case](https://onlinelibrary.wiley.com/doi/abs/10.1002/jid.3310)," *Journal of International Development*, 30(5):760-789
 
