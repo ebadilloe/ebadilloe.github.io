@@ -28,10 +28,11 @@ My full CV is available [here](files/BadilloER_CV2020.pdf)
 <br>
 <br>
 
-**Erika Raquel Badillo Enciso**<br>
+
+<span style="float:right;">**Erika Raquel Badillo Enciso**<br>
 Facultad de Economia<br>
 Universidad Autónoma Latinoamericana (UNAULA)<br>
 Phone: +57 (4) 511 21 99 Ext. 121<br>
 Office: 418, Bloque 1<br>
 Carrera 55 Nº 49 - 51<br>
-Medellín-Colombia
+Medellín-Colombia</span></p>
