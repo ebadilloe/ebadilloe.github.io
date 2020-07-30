@@ -16,7 +16,7 @@ body{ /* Normal  */
   }
 </style>
 
-[Department of Economics](https://www.unaula.edu.co/profesores_econo), UNAULA
+[Facultad de Economía](https://www.unaula.edu.co/profesores_econo), UNAULA
 
 [Grupo de Investigaciones Económicas - GINVECO](https://www.unaula.edu.co/economia/investigacion/grupo), UNAULA
 
