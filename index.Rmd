@@ -13,7 +13,7 @@ body{ /* Normal  */
   }
 </style>
 <br>
-I am a Assistant Professor of Economics at [Universidad Autónoma Latinoamericana](https://www.unaula.edu.co) (Medellín-Colombia). My research interests lie in the fields of innovations economics, labor, gender and applied microeconometrics 
+I am an Assistant Professor of Economics at [Universidad Autónoma Latinoamericana](https://www.unaula.edu.co) (Medellín-Colombia). My research interests lie in the fields of innovations economics, labor, gender and applied microeconometrics 
 
 **2015 PhD in Economics**, Universitat de Barcelona, Spain<br>
 Dissertation: [R&D Cooperation: Determinants, persistence and its effects on firms' innovative performance](https://www.tesisenred.net/handle/10803/287325)<br>
