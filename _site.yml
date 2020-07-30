@@ -11,8 +11,8 @@ navbar:
       href: affiliations.html
       
   right:
-    - icon: fa-envelope fa-lg
-      href: contact.html
+    #- icon: fa-envelope fa-lg
+    #  href: contact.html
     - icon: ai-ideas-repec-square ai-lg
       href: https://ideas.repec.org/f/pba1439.html
     - icon: ai-google-scholar-square ai-lg
@@ -23,8 +23,10 @@ navbar:
       href: https://www.researchgate.net/profile/Erika_Raquel_Badillo_Enciso
     - icon: fa-graduation-cap fa-lg
       href: https://www.scopus.com/authid/detail.uri?authorId=36005371700
-    - icon: ai-cv-square ai-lg
-      href: http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001317148
+    #- icon: ai-cv-square ai-lg
+    #  href: http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001317148
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/Erikabad6
     - icon: fa-github fa-lg
       href: https://github.com/ebadilloe/
 output:
