@@ -1,5 +1,5 @@
 ---
-pagetitle: "Erika Raquel Badillo Enciso"
+pagetitle: "Erika R. Badillo"
 ---
 <link rel="stylesheet" href="styles.css" type="text/css">
 
